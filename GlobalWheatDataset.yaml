@@ -1,0 +1,8 @@
+
+path: 'C:/Users/evren/Desktop/application_project/project_code/'
+
+train: 'data(2021)/gwhd_2021/train/images'
+val: 'data(2021)/gwhd_2021/val/images'
+    
+names:
+    0: wheat_head
